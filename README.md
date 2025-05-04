@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/PetarR21/product-preview-card/](https://github.com/PetarR21/product-preview-card/)
-- Live Site URL: [https://petarr21.github.io/product-preview-card/](https://petarr21.github.io/product-preview-card/)
+- Solution URL: [https://github.com/PetarR21/four-card-feature-section](https://github.com/PetarR21/four-card-feature-section)
+- Live Site URL: [https://petarr21.github.io/four-card-feature-section/](https://petarr21.github.io/four-card-feature-section/)
 
 ## My process
 
